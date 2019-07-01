@@ -1,8 +1,8 @@
 # JustAMemer
-Posts memes in discord
-commands:
-!meme
-!memeSanya
-!memeDima
-!memeArtem
-!memeinfo
+Posts memes in discord <br />
+commands: <br />
+!meme <br />
+!memeSanya <br />
+!memeDima <br />
+!memeArtem <br />
+!memeinfo <br />
